@@ -30,8 +30,8 @@ farming.start = function(){
     
     //player object
     var playerObj = {
-        money: 300,
-        currentCrop: 0     
+        money: 1000002,
+        currentCrop: 333334     
     }
     
     //crops
